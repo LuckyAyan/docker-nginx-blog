@@ -1,0 +1,1 @@
+import{d as a,o as t,c as s,a as e}from"./element-plus.701ae271.js";import"./highLight.c849f34f.js";var n=a({name:"About"});const o={class:"about"},r=e("div",{class:"about-content"},[e("p",null,"Ayan")],-1);n.render=function(a,e,n,u,c,i){return t(),s("div",o,[r])};export default n;
